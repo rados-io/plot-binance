@@ -1,0 +1,15 @@
+{
+  "name": "plot-binance",
+  "version": "0.1.0",
+  "description": "Plotting utilities for Binance cryptocurrency exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rados-io",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "runkit-plotly": "^1.1.0"
+  }
+}
